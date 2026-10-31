@@ -1,0 +1,8 @@
+{
+  "name": "Remix Nexus Finance",
+  "description": "Next-generation financial services delivering fast, accessible loans, asset-backed liquidity, and high-yield wealth management across Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
